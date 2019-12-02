@@ -1,2 +1,0 @@
-dev1_develop
-2_develop
